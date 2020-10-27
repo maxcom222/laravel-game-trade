@@ -1,0 +1,20 @@
+.theme .theme-screenshot {
+    max-width: 100%;
+    border-radius: 6px;
+}
+
+.theme .alert {
+    border-radius: 6px !important;
+}
+
+.theme .alert {
+    padding: 0.5rem 1rem !important;
+    margin: 0 0 0.5rem 0 !important;
+}
+.theme .alert .alert-icon {
+    padding: 0 1em 0 0;
+}
+
+.theme .alert .alert-icon i {
+    font-size: 1rem !important;
+}
